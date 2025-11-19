@@ -1,0 +1,41 @@
+
+
+.header1{
+    background-color: greenyellow;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.block1{
+    width: 100px;
+}
+
+.paper1{
+    width: 75px;
+}
+
+.sithers1{
+    width: 100px;
+}
+
+.block2{
+    width: 100px;
+}
+
+.paper2{
+    width: 75px;
+}
+
+.sithers2{
+    width: 100px;
+}
+
+#mine_allpictures{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
